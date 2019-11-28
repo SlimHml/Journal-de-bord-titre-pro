@@ -15,16 +15,19 @@ Recadrer les écarts faits à la planification
 
 #####Lundi 25/11/2019
 
-Apprentissage de l'UML, apprendre les normes prend du temps, mais il est nécessaire d'avoir un UML détaillé pour notre POKE afin que le projet avance le plus vite possible
+Apprentissage de l'UML, apprendre les normes prend du temps , mais il est nécessaire d'avoir un UML détaillé pour notre POKE, afin que le projet avance le plus vite possible
 
-Nous avons partagé cette tâche avec Amélie, qui elle s'occupe de la branche acheteurs, je m'occupe de la branche producteurs
+Nous avons partagé cette tâche avec Amélie, qui elle s'occupe de la branche acheteurs, je m'occupe de la branche producteurs.
+Nous avons opté pour Draw.io pour réaliser cette tâche, c'est sommaire, mais gratuit et robuste
 
 #####Mardi 26/11/2019
-J'ai terminé la branche producteurs, Amélie doit se pencher sur l'apprentissage des tests, du coup la branche acheteurs prend un peu plus de temps que prévu
+J'ai terminé la branche producteurs, Amélie doit se pencher sur l'apprentissage des tests, du coup la branche acheteurs prend un peu plus de temps que prévu, de mon côté je me renseigne sur les tokens, avec JWT (à vérifier)
 
 #####Mercredi 27/11/2019
 Nous allons aborder la branche BLOG de l'UML ensemble avec Amélie
 Notre objectif et d'arriver à faire cela en plus de la branche inscription
 
+Malheureusement, on n'a pas pu aborder ce thème car il y'a eu des ateliers tout au long de la journée afin de définir exactement les responsabilités / devoirs de chaque rôle dans les équipes, et je me suis porté volontaire dans l'après midi pour suivre le cours sur la chaîne prototypale, je m'occuperai de l'UML blog demain
 
-
+#####Jeudi 28/11/2019
+Amélie n'est pas là aujourd'hui dû à deux rendez vous dans sa journée, je m'attaque à l'UML blog, je vais commencer par faire des recherche et un travail de réflexion pour visualiser la structure d'un blog
