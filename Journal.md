@@ -31,7 +31,8 @@ Notre objectif et d'arriver à faire cela en plus de la branche inscription
 
 Malheureusement, on n'a pas pu aborder ce thème car il y'a eu des ateliers tout au long de la journée afin de définir exactement les responsabilités / devoirs de chaque rôle dans les équipes, et je me suis porté volontaire dans l'après midi pour suivre le cours sur la chaîne prototypale, je m'occuperai de l'UML blog demain
 
-#####Jeudi 28/11/2019
+##### Jeudi 28/11/2019
+
 Amélie n'est pas là aujourd'hui dû à deux rendez vous dans sa journée, je m'attaque à l'UML blog, je vais commencer par faire des recherche et un travail de réflexion pour visualiser la structure
 
 Je me suis donné comme piste de reflexion le travail du groupe en charge du blog de la promo, et y adapter les besoins propres à Popfresh
