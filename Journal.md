@@ -38,3 +38,8 @@ Amélie n'est pas là aujourd'hui dû à deux rendez vous dans sa journée, je m
 Je me suis donné comme piste de reflexion le travail du groupe en charge du blog de la promo, et y adapter les besoins propres à Popfresh
 
 Grâce à celà et à des recherches sur stackOverflow, j'ai pu avancer sur la branche Blog et y compris Admin
+
+##### Vendredi 29/11/2019
+
+Avec Amélie on s'est penchés sur la fusion de nos deux travaux, mais ma logique ne lui convient pas et a retouché mon travail tout en greffant le sien à tout celà.
+De légères tensions qui me confirment que ceci doit être fait par une seule et même personne afin d'éviter ce genre de débat.
