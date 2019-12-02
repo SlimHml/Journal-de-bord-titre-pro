@@ -15,7 +15,7 @@ Recadrer les écarts faits à la planification
 
 ##### Lundi 25/11/2019
 
-Apprentissage de l'UML, apprendre les normes prend du temps , mais il est nécessaire d'avoir un UML détaillé pour notre POKE, afin que le projet avance le plus vite possible
+Apprentissage de l'UML, apprendre les normes prend du temps , mais il est nécessaire d'avoir un UML détaillé pour notre POC, afin que le projet avance le plus vite possible
 
 Nous avons partagé cette tâche avec Amélie, qui elle s'occupe de la branche acheteurs, je m'occupe de la branche producteurs.
 Nous avons opté pour Draw.io pour réaliser cette tâche, c'est sommaire, mais gratuit et robuste
