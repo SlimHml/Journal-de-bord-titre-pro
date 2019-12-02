@@ -2,7 +2,7 @@
 
 ## Première partie: Planification
 
-### Chapitre I Définition du role de chef de projet
+### Chapitre I Définition du role de chef de projet et planification du travail
 
 Définir les outils de communication
 Analyser le cahier des charges
@@ -26,18 +26,18 @@ J'ai terminé la branche producteurs, Amélie doit se pencher sur l'apprentissag
 
 ##### Mercredi 27/11/2019
 
-Nous allons aborder la branche BLOG de l'UML ensemble avec Amélie
+Matin: Nous allons aborder la branche BLOG de l'UML ensemble avec Amélie
 Notre objectif et d'arriver à faire cela en plus de la branche inscription
 
-Malheureusement, on n'a pas pu aborder ce thème car il y'a eu des ateliers tout au long de la journée afin de définir exactement les responsabilités / devoirs de chaque rôle dans les équipes, et je me suis porté volontaire dans l'après midi pour suivre le cours sur la chaîne prototypale, je m'occuperai de l'UML blog demain
+Après-midi: Malheureusement, on n'a pas pu aborder ce thème car il y'a eu des ateliers tout au long de la journée afin de définir exactement les responsabilités / devoirs de chaque rôle dans les équipes, et je me suis porté volontaire pour suivre le cours sur la chaîne prototypale, je m'occuperai de l'UML blog demain
 
 ##### Jeudi 28/11/2019
 
-Amélie n'est pas là aujourd'hui dû à deux rendez vous dans sa journée, je m'attaque à l'UML blog, je vais commencer par faire des recherche et un travail de réflexion pour visualiser la structure
+Amélie n'est pas là aujourd'hui dû à deux rendez vous dans sa journée, je m'attaque à l'UML blog, je vais commencer par faire des recherches et un travail de réflexion pour visualiser la structure
 
-Je me suis donné comme piste de reflexion le travail du groupe en charge du blog de la promo, et y adapter les besoins propres à Popfresh
+Je me suis donné comme piste de reflexion le travail sur l'UML du groupe en charge du blog de la promo, et y adapter les besoins propres à Popfresh
 
-Grâce à celà et à des recherches sur stackOverflow, j'ai pu avancer sur la branche Blog et y compris Admin
+Grâce à celà et à des recherches sur stackOverflow nottament sur la signification et la logique des arrows car il semble que je ne sois pas le seul à qui ça pose des questions, j'ai pu donc avancer sur la branche Blog et y compris Admin
 
 ##### Vendredi 29/11/2019
 
