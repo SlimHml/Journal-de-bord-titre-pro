@@ -43,3 +43,7 @@ Grâce à celà et à des recherches sur stackOverflow, j'ai pu avancer sur la b
 
 Avec Amélie on s'est penchés sur la fusion de nos deux travaux, mais ma logique ne lui convient pas et a retouché mon travail tout en greffant le sien à tout celà.
 De légères tensions qui me confirment que ceci doit être fait par une seule et même personne afin d'éviter ce genre de débat.
+
+##### Lundi 02/12/2019
+
+Après un week-end découverte de typescript, je vais étudier le cahier des charges reformaté afin de créer les premières milestones et issues
