@@ -52,7 +52,7 @@ Après avoir discuté des priorités avec Hachemi et Amélie, il ressort qu'au n
 
 ##### Mardi 03/12/2019
 
-Ce matin Céline, qui nous avait initié à la **Méthode agile** il y'a de celà 2 mois est passée pour prendre de nos nouvelles et nous interviewer sur notre ressenti avec la formation, elle était avec sa stagiaire afin de nous poser tout un tas de question, elle nous a aussi parlé de 5 jours de **formation** suivis d'une **certification**, je suis intéressé car l'aspect **tactique / stratégique** me plait beaucoup, malheureusement il faut un compte **CPF** garni, car pour ces 5 jours et la **Certif**, il est nécessaire d'avoir **1750 euros** HT, j'en suis à des années lumière.
+Ce matin Céline, qui nous avait initié à la **Méthode agile** il y'a de celà 2 mois est passée pour prendre de nos nouvelles et nous interviewer sur notre ressenti avec la formation, elle était avec sa stagiaire afin de nous poser tout un tas de question, elle nous a aussi parlé de 5 jours de **formation** suivis d'une **certification** à la méthode agile, je suis intéressé car l'aspect **tactique / stratégique** me plait beaucoup, malheureusement il faut un compte **CPF** garni, car pour ces 5 jours et la **Certif**, il est nécessaire d'avoir **1750 euros** HT, j'en suis à des années lumière.
 
 J'ai initialisé le projet avec le micro-framework **Express** pour nodeJS qui nous fournira des outils de base afin d'aller plus vite dans la mise en place de notre application. Mais aussi pour nous éviter de manière certaine des bugs que nous aurions eu beaucoup de mal à détecter et fixer plus tard.
 Nous serons donc à un niveau un peu moins bas de programmation mais on part plus sereins, Express est une petite révolution pour notre équipe débutante
@@ -64,4 +64,8 @@ Sequelize CLI va générer encore une fois pour nous différents dossiers et fic
 
 J'ai donc refactorisé tous les requires par des imports, toutes les var en const.
 
-J'ai aussi installé, importé et appelé le **Middleware CORS**, qui nous permet de configurer la sécurité de l'API web, il autorise par exemple un domaine à faire des requêtes contre notre API, ça me paraît **extrêmement dangereux** maintenant que je me relit, je me demande si il y'a un moyen de configurer CORS afin qu'il n'autorise qu'un seul autre domaine (le notre en l'occurence) à venir se servir dans notre API backend
+J'ai aussi installé, importé et appelé le **Middleware CORS**, qui nous permet de configurer la sécurité de l'API web, il autorise par exemple un domaine à faire des requêtes contre notre API, ça me paraît **extrêmement dangereux** maintenant que je me relit, je me demande si il y'a un moyen de configurer **CORS** afin qu'il n'autorise qu'un seul autre domaine (le notre en l'occurence) à venir se servir dans notre API backend
+
+Le push sur la branche master s'est bien passé, je ne ferme aucune issue dans la section "Done" du **projet backend** sur **Github**, je laisse Amélie, lead Technique, valider mon travail avant de boucler tout ça.
+
+Il ne manque plus qu'à installer Typescript, mais je suis encore un peu frileux à l'idée de me lancer là dedans à à peine 2 mois de l'ultime deadline.
