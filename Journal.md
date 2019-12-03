@@ -47,3 +47,11 @@ De légères tensions qui me confirment que ceci doit être fait par une seule e
 ##### Lundi 02/12/2019
 
 Après un week-end découverte de typescript, je vais étudier le cahier des charges reformaté afin de créer les premières milestones et issues
+
+Après avoir discuté des priorités avec Hachemi et Amélie, il ressort qu'au niveau du backend nous allons devoir nous atteler d'abord aux **Produits**, point commun entre les **Acheteurs** et les **Producteurs**, j'ai crée une dizaine de milestones, comprenant l'initialisation basique du projet avec **Express**, jusqu'aux premières **Routes** et **Controlleurs**, je ne sais pas si je m'avance un peu trop, mais selon ma logique, nous y viendront tôt ou tard alors j'ai pris l'initiative de les poser sur **Github** d'ores et déjà.
+
+##### Mardi 03/12/2019
+
+Ce matin Céline, qui nous avait initié à la **Méthode agile** il y'a de celà 2 mois est passée pour prendre de nos nouvelles et nous interviewer sur notre ressenti avec la formation, elle était avec sa stagiaire afin de nous poser tout un tas de question, elle nous a aussi parlé de 5 jours de **formation** suivis d'une **certification**, je suis intéressé car l'aspect **tactique / stratégique** me plait beaucoup, malheureusement il faut un compte **CPF** garni, car pour ces 5 jours et la **Certif**, il est nécessaire d'avoir **1750 euros** HT, j'en suis à des années lumière.
+
+J'ai initialisé le projet avec le micro-framework **Express** pour nodeJS qui nous fournira des outils de base afin d'aller plus vite dans la mise en place de notre application mais aussi pour nous éviter de manière certaine certains bugs que nous aurions eu beaucoup de mal à détecter et fixer plus tard , **Sequelize CLI**, **Babel** afin que certains éléments de langages soient pris en compte (**Requires remplacés par Imports**),
