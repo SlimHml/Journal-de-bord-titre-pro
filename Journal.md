@@ -60,4 +60,8 @@ Nous serons donc à un niveau un peu moins bas de programmation mais on part plu
 **Sequelize CLI**, l’ORM le plus adapté dans notre cas est sequelize. Sequelize permet l’utilisation d’une base de données de type Postgres, mais aussi de quelques autres (MySQL, SQLite et Microsoft SQL Server)
 Sequelize CLI va générer encore une fois pour nous différents dossiers et fichiers qui vont nous faciliter la vie de manière plus sûre et plus rapide, donc une appli plus robuste à notre niveau de technicité. Nous sommes aussi fortement limités par le temps qu'il nous reste, donc partir sur ce genre d'outil me paraît pertinent.
 
-**Babel** afin que certains éléments de langages soient pris en compte (**Requires remplacés par Imports**),
+**Babel** afin que certains éléments de langages soient pris en compte (**Requires remplacés par Imports**)
+
+J'ai donc refactorisé tous les requires par des imports, toutes les var en const.
+
+J'ai aussi installé, importé et appelé le **Middleware CORS**, qui nous permet de configurer la sécurité de l'API web, il autorise par exemple un domaine à faire des requêtes contre notre API, ça me paraît **extrêmement dangereux** maintenant que je me relit, je me demande si il y'a un moyen de configurer CORS afin qu'il n'autorise qu'un seul autre domaine (le notre en l'occurence) à venir se servir dans notre API backend
