@@ -2,9 +2,9 @@
 
 ## Première partie: Planification
 
-### Chapitre I Définition du role de chef de projet et planification du travail
+### Chapitre I Définition du rôle de chef de projet et planification du travail
 
-Définir les outils de communication
+**Rôles dans l'équipe**: Définir les outils de communication
 Analyser le cahier des charges
 Création du backlog => des users stories
 Planification des sprints (quelles tâches?) sur quelle durée?
@@ -12,6 +12,9 @@ Vérifier la répartition des tâches
 => s'assurer du respect du backlog
 Organiser les daily meeting (problèmes rencontrés la veille, qu'est ce que chacun va faire aujourd'hui?)
 Recadrer les écarts faits à la planification
+
+**Mise en place du journal** : Je suis encore peu familier avec Markdown, j'utilise un cheatsheet provenant d'un dépôt Github d'un certain "adam-p"
+[Source ici !](https://github.com/adam-p/markdown-here)
 
 ##### Lundi 25/11/2019
 
