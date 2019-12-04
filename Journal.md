@@ -81,7 +81,7 @@ Cette après-midi, j'ai eu l'agréable surprise de voir que l'on ne pouvait init
 
 j'ai balancé à la poubelle le dossier **Backend** et je suis reparti sur un bon vieux mkdir.
 
-**npm init -y**, installation de **mocha** et de **chai**, installation de **typescript**, installation npm install @types/node --save-dev), installation de typescript compilator (tsc) à l'aide d'une énorme ligne de commande pour créer notre tsconfig.json et y ajouter plusieurs utilités ainsi qu'un dossier build où notre code compilé attérira sous forme de .js
+**npm init -y**, installation de **mocha** et de **chai**, installation de **typescript**, installation npm install @types/node --save-dev), installation de typescript compilator (tsc) à l'aide d'une énorme ligne de commande pour créer notre **tsconfig.json** et y ajouter plusieurs utilités ainsi qu'un dossier build où notre code compilé attérira sous forme de .js
 
 ```
 npx tsc --init --rootDir src --outDir build \
@@ -95,7 +95,7 @@ Je pense que rien qu'avec ça, j'ai lancé le plus gros commit que je n'ai jamai
 
 Installation de nodemon et de **ts-node** (npm install --save-dev ts-node nodemon)
 
-Installation de rimraf, qui fonctionne comme rm -rf, création d'un script qui supprime build et son contenu et le remplace par un nouveau ainsi que la compilation toute fraîche en .js de notre .ts à l'intérieur sur lancement de la commande **npm run build**
+Installation de rimraf, qui fonctionne comme rm -rf, création d'un script qui supprime build et son contenu et le remplace par un nouveau mais qui ensuite le re-rempli avec la compilation toute fraîche en .js de notre .ts (le TSC quoi) sur lancement de la commande **npm run build**
 
 Le script dans package.json: **"build": "rimraf ./build && tsc",**
 
