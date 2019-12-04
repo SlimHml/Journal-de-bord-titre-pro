@@ -77,6 +77,8 @@ Il ne manque plus qu'à installer Typescript, mais je suis encore un peu frileux
 
 Ce matin nous nous sommes penchés avec Amélie sur les tests unitaires, nous avons insallé Mocha et Chai, et avons run nos premiers tests unitaires dans un dossier factice d'entraînement, il n'y a plus qu'à prendre l'habitude de mettre nos fonctions dans ces fichiers de tests
 
+Cette après-midi, j'ai eu l'agréable surprise de voir que l'on ne pouvait initialiser un projet avec express si on compte utiliser Typescript, il va falloir partir sur une initialisation du projet fait main
+
 TDD
 Test coverage
 Chai
