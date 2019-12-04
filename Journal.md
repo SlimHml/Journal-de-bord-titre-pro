@@ -72,3 +72,12 @@ J'ai aussi installé, importé et appelé le **Middleware CORS**, qui nous perme
 Le push sur la branche master s'est bien passé, je ne ferme aucune issue dans la section "Done" du **projet backend** sur **Github**, je laisse Amélie, lead Technique, valider mon travail avant de boucler tout ça.
 
 Il ne manque plus qu'à installer Typescript, mais je suis encore un peu frileux à l'idée de me lancer là dedans à à peine 2 mois de l'ultime deadline.
+
+##### Mercredi 04/12/2019
+
+Ce matin nous nous sommes penchés avec Amélie sur les tests unitaires, nous avons insallé Mocha et Chai, et avons run nos premiers tests unitaires dans un dossier factice d'entraînement, il n'y a plus qu'à prendre l'habitude de mettre nos fonctions dans ces fichiers de tests
+
+TDD
+Test coverage
+Chai
+Mocha
