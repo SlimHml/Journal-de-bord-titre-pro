@@ -79,6 +79,17 @@ Ce matin nous nous sommes penchés avec Amélie sur les tests unitaires, nous av
 
 Cette après-midi, j'ai eu l'agréable surprise de voir que l'on ne pouvait initialiser un projet avec express si on compte utiliser Typescript, il va falloir partir sur une initialisation du projet fait main
 
+j'ai balancé à la poubelle le dossier **Backend** et je suis reparti sur un bon vieux mkdir.
+
+**npm init -y**, installation de **mocha** et de **chai**, installation de **typescript**, installation de **types node** (npm install @types/node --save-dev), installation de typescript compilator (tsc) à l'aide d'une énorme ligne de commande pour créer notre tsconfig.json et y ajouter plusieurs utilités ainsi qu'un dossier build où notre code compilé attérira sous forme de .js
+
+```
+npx tsc --init --rootDir src --outDir build \
+> --esModuleInterop --resolveJsonModule --lib es6 \
+> --module commonjs --allowJs true --noImplicitAny true
+message TS6071: Successfully created a tsconfig.json file.
+```
+
 TDD
 Test coverage
 Chai
