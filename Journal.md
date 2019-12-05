@@ -53,6 +53,8 @@ Après un week-end découverte de typescript, je vais étudier le cahier des cha
 
 Après avoir discuté des priorités avec Hachemi et Amélie, il ressort qu'au niveau du backend nous allons devoir nous atteler d'abord aux **Produits**, point commun entre les **Acheteurs** et les **Producteurs**, j'ai crée une dizaine de milestones, comprenant l'initialisation basique du projet avec **Express**, jusqu'aux premières **Routes** et **Controlleurs**, je ne sais pas si je m'avance un peu trop, mais selon ma logique, nous y viendront tôt ou tard alors j'ai pris l'initiative de les poser sur **Github** d'ores et déjà.
 
+### Chapitre II, Début de la construction du projet
+
 ##### Mardi 03/12/2019
 
 Ce matin Céline, qui nous avait initié à la **Méthode agile** il y'a de celà 2 mois est passée pour prendre de nos nouvelles et nous interviewer sur notre ressenti avec la formation, elle était avec sa stagiaire afin de nous poser tout un tas de question, elle nous a aussi parlé de 5 jours de **formation** suivis d'une **certification** à la méthode agile, je suis intéressé car l'aspect **tactique / stratégique** me plait beaucoup, malheureusement il faut un compte **CPF** garni, car pour ces 5 jours et la **Certif**, il est nécessaire d'avoir **1750 euros** HT, j'en suis à des années lumière.
@@ -77,9 +79,9 @@ Il ne manque plus qu'à installer Typescript, mais je suis encore un peu frileux
 
 Ce matin nous nous sommes penchés avec Amélie sur les tests unitaires, nous avons insallé Mocha et Chai, et avons run nos premiers tests unitaires dans un dossier factice d'entraînement, il n'y a plus qu'à prendre l'habitude de mettre nos fonctions dans ces fichiers de tests
 
-Cette après-midi, j'ai eu l'agréable surprise de voir que l'on ne pouvait initialiser un projet avec express si on compte utiliser Typescript, il va falloir partir sur une initialisation du projet fait main
+Cette après-midi, j'ai eu l'agréable surprise de voir que l'on ne pouvait initialiser un projet avec **express** si on compte utiliser **Typescript**, il va falloir partir sur une initialisation du projet fait main
 
-j'ai balancé à la poubelle le dossier **Backend** et je suis reparti sur un bon vieux mkdir.
+j'ai balancé à la poubelle le dossier **Backend** et je suis reparti sur un bon vieux mkdir, il est temps d'expérimenter jusqu'à trouver la façon la plus propre d'initialiser ce projet.
 
 **npm init -y**, installation de **mocha** et de **chai**, installation de **typescript**, installation npm install @types/node --save-dev), installation de typescript compilator (tsc) à l'aide d'une énorme ligne de commande pour créer notre **tsconfig.json** et y ajouter plusieurs utilités ainsi qu'un dossier build où notre code compilé attérira sous forme de .js
 
@@ -93,12 +95,12 @@ message TS6071: Successfully created a tsconfig.json file.
 Création d'un dossier **src** contenant index.ts
 Je pense que rien qu'avec ça, j'ai lancé le plus gros commit que je n'ai jamais vu (petite anecdote)
 
-Installation de nodemon et de **ts-node** (npm install --save-dev ts-node nodemon)
+Installation de **nodemon** et de **ts-node** (npm install --save-dev ts-node nodemon)
 
-Installation de rimraf, qui fonctionne comme rm -rf, création d'un script qui supprime build et son contenu et le remplace par un nouveau mais qui ensuite le re-rempli avec la compilation toute fraîche en .js de notre .ts (le TSC quoi) sur lancement de la commande **npm run build**
+Installation de **rimraf**, qui fonctionne comme rm -rf, création d'un script qui supprime build et son contenu et le remplace par un nouveau mais qui ensuite le re-rempli avec la compilation toute fraîche en **.js** de notre **.ts** (le TSC quoi) sur lancement de la commande **npm run build**
 
 Le script dans package.json: **"build": "rimraf ./build && tsc",**
 
-Installation de babel, installation des presets d'environnement, création d'un fichier **.babelrc** et ajout d'un preset.
+Installation de **babel**, installation des presets d'environnement, création d'un fichier **.babelrc** et ajout d'un **preset**.
 
 Et j'ai l'impression de n'avoir rien fait, il y'a encore énormément de boulot rien que sur l'initialisation, et avec Amélie nous ne savons pas comment partager cette tâche sans se marcher sur les pieds. On va discuter demain matin je pense via **Mattermost**
