@@ -104,3 +104,7 @@ Le script dans package.json: **"build": "rimraf ./build && tsc",**
 Installation de **babel**, installation des presets d'environnement, création d'un fichier **.babelrc** et ajout d'un **preset**.
 
 Et j'ai l'impression de n'avoir rien fait, il y'a encore énormément de boulot rien que sur l'initialisation, et avec Amélie nous ne savons pas comment partager cette tâche sans se marcher sur les pieds. On va discuter demain matin je pense via **Mattermost**
+
+##### Jeudi 05/12/2019
+
+Suites aux grèves multiples, nous travaillons aujourd'hui à domicile, j'ai trouvé 3 articles ce matin afin d'initialiser un projet avec NodeJS, express et typescript, un article d'un certain [Pierre Paci](https://medium.com/intech-conseil-expertise/d%C3%A9marrer-vite-et-bien-votre-application-node-express-typescript-jest-507bb454147d)
