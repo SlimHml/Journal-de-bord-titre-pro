@@ -109,3 +109,9 @@ Et j'ai l'impression de n'avoir rien fait, il y'a encore énormément de boulot 
 
 Suites aux grèves multiples, nous travaillons aujourd'hui à domicile, j'ai trouvé 3 articles ce matin afin d'initialiser un projet avec NodeJS, express et typescript, un article d'un certain [Pierre Paci](https://medium.com/intech-conseil-expertise/d%C3%A9marrer-vite-et-bien-votre-application-node-express-typescript-jest-507bb454147d)
 D'un certain [Khalil Stemmler](https://khalilstemmler.com/blogs/typescript/node-starter-project/) et pour finir de [David Neal](https://developer.okta.com/blog/2018/11/15/node-express-typescript)
+J'ai su lancer un premier hello world sur un serveur local, mais il reste tout un tas de dossiers et de fichiers à **ajouter** et **modifier**
+
+##### Vendredi 06/12/2019
+
+Journée documentation, tests et modification de mon C.V
+J'hésite vraiment à revenir sur une initialisation avec Express, et revenir sur typescript pour le frontend
