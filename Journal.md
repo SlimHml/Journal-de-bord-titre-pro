@@ -127,3 +127,5 @@ basé sur la Go's standard library (librairie indépendante)
 Basé sur le langage RUST
 
 (Hors sujet mais pour résoudre l'import des variables d'environnement .env, il faut utiliser env extended)
+
+Il faut que je vois le **destructurig**
