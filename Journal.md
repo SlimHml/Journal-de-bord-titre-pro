@@ -115,3 +115,15 @@ J'ai su lancer un premier hello world sur un serveur local, mais il reste tout u
 
 Journée documentation, tests et modification de mon C.V
 J'hésite vraiment à revenir sur une initialisation avec Express, et revenir sur typescript pour le frontend
+
+##### Samedi 07/12/2019
+
+Rendez vous est prit aujourd'hui à l'Adep avec Hachemi et Elias, nous allons nous pencher sur le sujet Deno, le successeur de Node JS
+
+Adios node modules
+Adios package json
+aucune dépendance externe
+basé sur la Go's standard library (librairie indépendante)
+Basé sur le langage RUST
+
+(Hors sujet mais pour résoudre l'import des variables d'environnement .env, il faut utiliser env extended)
