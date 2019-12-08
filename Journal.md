@@ -132,4 +132,4 @@ Il faut que je vois le **destructuring**
 
 ##### Dimanche 08/12/2019
 
-Malade, fatigué, je
+Malade, fatigué, je prends clairement cette journée en repos total, demain nous sommes encore en remote suites au mouvement massif de grèves en France
