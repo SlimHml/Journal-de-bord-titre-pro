@@ -129,3 +129,7 @@ Basé sur le langage RUST
 (Hors sujet mais pour résoudre l'import des variables d'environnement .env, il faut utiliser env extended)
 
 Il faut que je vois le **destructuring**
+
+##### Dimanche 08/12/2019
+
+Malade, fatigué, je
