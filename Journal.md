@@ -133,3 +133,7 @@ Il faut que je vois le **destructuring**
 ##### Dimanche 08/12/2019
 
 Malade, fatigué, je prends clairement cette journée en repos total, demain nous sommes encore en remote suites au mouvement massif de grèves en France
+
+##### Lundi 09/12/2019
+
+J'ai réussi à lancer un helloworld sur le dossier backend, mais je pense essayer de convaincre Amélie de repasser sur une initialisation rapide avec express, nous allons manquer de temps sinon
