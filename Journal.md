@@ -137,3 +137,13 @@ Malade, fatigué, je prends clairement cette journée en repos total, demain nou
 ##### Lundi 09/12/2019
 
 J'ai réussi à lancer un helloworld sur le dossier backend, mais je pense essayer de convaincre Amélie de repasser sur une initialisation rapide avec express, nous allons manquer de temps sinon
+
+##### Mardi 10/12/2019
+
+TSLint est un outil d’analyse statique, qui définie des règles permettant d’augmenter la qualité du code TypeScript en termes de lisibilité, maintenabilité et fonctionnalité.
+
+Voici un exemple de règle pour chaque catégorie :
+
+..* Limiter le nombre maximal de caractères par ligne (max-line-length) permet de rendre le code plus lisible.
+..* Limiter le nombre de if imbriqués dans une fonction (cyclomatic-complexity) permet de rendre le code plus maintenable.
+..* Déclarer des variables uniquement si on les utilise (no-unused-variable) permet d’assurer la bonne fonctionnalité du programme.
