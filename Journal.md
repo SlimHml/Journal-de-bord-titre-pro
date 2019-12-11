@@ -151,3 +151,7 @@ Voici un exemple de règle pour chaque catégorie :
 Ce sujet est vraiment intéressant et je ressent une vraie plus value tant au niveau professionnel au niveau de la méthode, mais aussi sur le marché du travail
 
 Mais dans un énorme soucis de deadline trop proche, Amélie et moi avons décidés d'abandonner typescript pour la production de ce POC
+
+###### Mercredi 11/12/2019
+
+J'ai recrée les milestones / issues à propos d'express generator dans notre repo github
