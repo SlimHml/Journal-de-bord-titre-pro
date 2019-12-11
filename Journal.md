@@ -157,3 +157,6 @@ Mais dans un énorme soucis de deadline trop proche, Amélie et moi avons décid
 J'ai recrée les milestones / issues à propos d'express generator dans notre repo github
 
 J'ai ajouté des commentaires pour guider un maximum lors du traitement des issues les plus simples
+
+Amélie s'occupe de la (ré) initialisation du projet avec Express et surtout la correcte façon d'utiliser le système de variables d'environnement.
+De mon côté en attendant, je me documente sur [sur JWT (json web token)](https://blog.ippon.fr/2017/10/12/preuve-dauthentification-avec-jwt/) préalablement, il semble que celà soit bien pour les SPA (single page application), mais est ce notre cas? à approfondir
