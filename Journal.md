@@ -144,6 +144,10 @@ TSLint est un outil d’analyse statique, qui définie des règles permettant d�
 
 Voici un exemple de règle pour chaque catégorie :
 
-..* Limiter le nombre maximal de caractères par ligne (max-line-length) permet de rendre le code plus lisible.
-..* Limiter le nombre de if imbriqués dans une fonction (cyclomatic-complexity) permet de rendre le code plus maintenable.
-..* Déclarer des variables uniquement si on les utilise (no-unused-variable) permet d’assurer la bonne fonctionnalité du programme.
+.._ Limiter le nombre maximal de caractères par ligne (max-line-length) permet de rendre le code plus lisible.
+.._ Limiter le nombre de if imbriqués dans une fonction (cyclomatic-complexity) permet de rendre le code plus maintenable.
+..\* Déclarer des variables uniquement si on les utilise (no-unused-variable) permet d’assurer la bonne fonctionnalité du programme.
+
+Ce sujet est vraiment intéressant et je ressent une vraie plus value tant au niveau professionnel au niveau de la méthode, mais aussi sur le marché du travail
+
+Mais dans un énorme soucis de deadline trop proche, Amélie et moi avons décidés d'abandonner typescript pour la production de ce POC
