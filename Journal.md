@@ -155,3 +155,5 @@ Mais dans un énorme soucis de deadline trop proche, Amélie et moi avons décid
 ###### Mercredi 11/12/2019
 
 J'ai recrée les milestones / issues à propos d'express generator dans notre repo github
+
+J'ai ajouté des commentaires pour guider un maximum lors du traitement des issues les plus simples
