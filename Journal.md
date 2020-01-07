@@ -160,3 +160,7 @@ J'ai ajouté des commentaires pour guider un maximum lors du traitement des issu
 
 Amélie s'occupe de la (ré) initialisation du projet avec Express et surtout la correcte façon d'utiliser le système de variables d'environnement.
 De mon côté en attendant, je me documente sur [sur JWT (json web token)](https://blog.ippon.fr/2017/10/12/preuve-dauthentification-avec-jwt/) pour l'instant, il semble que celà soit bien pour les SPA (single page application)
+
+###### Mardi 7/01/2020
+
+Je pars sur un projet solo au final, trop de difficultés rencontrées, le groupe s'est dissout, je me lance dans un site d'équitation
