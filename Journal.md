@@ -171,3 +171,4 @@ Initialisation du projet avec Express generator, je pars sur l'article en premie
 Même procédure qu'au commencement de pop fresh, sans gitflow, refactorisation, installation de CORS
 
 Je rencontre un gros soucis, pouvoir upload et display des images tout en sauvegardant celles ci dans la base de données
+J'ai trouvé un tutoriel assez long, je vais tenter ma chance, installation de Multer
