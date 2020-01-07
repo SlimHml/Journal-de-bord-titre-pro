@@ -166,3 +166,5 @@ De mon côté en attendant, je me documente sur [sur JWT (json web token)](https
 Je pars sur un projet solo au final, trop de difficultés rencontrées, le groupe s'est dissout, je me lance dans un site d'équitation
 
 Je choisis le modèle MVC sur nodejs, pas de typescript
+
+Initialisation du projet avec Express generator, je pars sur l'article en premier
