@@ -172,3 +172,9 @@ Même procédure qu'au commencement de pop fresh, sans gitflow, refactorisation,
 
 Je rencontre un gros soucis, pouvoir upload et display des images tout en sauvegardant celles ci dans la base de données
 J'ai trouvé un tutoriel assez long, je vais tenter ma chance, installation de Multer
+
+##### Semaine juste avant le début des stages
+
+J'ai décidé de développer directement l'authentification, j'ai crée mon modèle user, le controlleur, la route, j'ai installé Json web token et bcrypt pour l'attribution du token et le cryptage du mot de passe généré lors de l'inscription
+
+Register
