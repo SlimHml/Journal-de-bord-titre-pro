@@ -177,4 +177,4 @@ J'ai trouvé un tutoriel assez long, je vais tenter ma chance, installation de M
 
 J'ai décidé de développer directement l'authentification, j'ai crée mon modèle user, le controlleur, la route, j'ai installé Json web token et bcrypt pour l'attribution du token et le cryptage du mot de passe généré lors de l'inscription
 
-Register terminé
+Register terminé, login terminé
