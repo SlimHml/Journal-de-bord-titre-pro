@@ -182,3 +182,5 @@ Register terminé, login terminé, je pars sur l'update d'un profil, je dois enc
 ##### Rencontre hebdomadaire avec la cliente
 
 Celle ci désire un calendrier afin de pouvoir créer des évenements et que les gens puissent
+s'y inscrire
+Elle souhaite aussi une petite option afin de voir la météo quotidienne
