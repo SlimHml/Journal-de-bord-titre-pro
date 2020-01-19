@@ -178,3 +178,7 @@ J'ai trouvé un tutoriel assez long, je vais tenter ma chance, installation de M
 J'ai décidé de développer directement l'authentification, j'ai crée mon modèle user, le controlleur, la route, j'ai installé Json web token et bcrypt pour l'attribution du token et le cryptage du mot de passe généré lors de l'inscription
 
 Register terminé, login terminé, je pars sur l'update d'un profil, je dois encore refactoriser mon code qui est beaucoup trop en cascade, notamment les .then, .catch
+
+##### Rencontre hebdomadaire avec la cliente
+
+Celle ci désire un calendrier afin de pouvoir créer des évenements et que les gens puissent
