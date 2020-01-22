@@ -184,3 +184,19 @@ Register terminé, login terminé, je pars sur l'update d'un profil, je dois enc
 Celle ci désire un calendrier afin de pouvoir créer des évenements et que les gens puissent
 s'y inscrire
 Elle souhaite aussi une petite option afin de voir la météo quotidienne
+
+##### Lundi 20 janvier 2020
+
+Première journée où tous les autres sont en stage, un peu déprimant mais je suis quasi seul donc le top pour coder
+J'ai passé toute la matinée à faire des demandes de stage ainsi qu'une bonne partie de l'après midi.
+
+##### Mardi 21 janvier
+
+J'ai bien progressé sur le login, il est désormais opérationnel au niveau du back, je rencontre une grande difficulté avec le .replace("Bearer", ""), si j'enlève Bearer et que je laisse le token en brut dans postman, il arrive bien à GET tel ou tel utilisateur, en revanche, quand Bearer est à côté du token, j'ai un message "Token invalide", comme si ma fonction qui déclare le userId = -1; était prise en compte par getUserProfile du controlleur...
+
+J'essaierai de régler ça demain
+
+##### Mercredi 22 janvier
+
+Toujours pas de new pour un stage, un ou deux refus et c'est tout
+Je suis vite repassé sur mon code, et j'ai enfin trouvé d'où venait le problème
