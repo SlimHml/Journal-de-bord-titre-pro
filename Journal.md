@@ -210,3 +210,7 @@ L'update fonctionne, je suis capable de modifier le username et l'email d'un uti
 En revanche, il m'affiche tout, y compris le mot de passe et isAdmin
 
 J'ai trouvé le soucis :) dans attribute de userController qui est sensé me choper le username et l'email, il manquait.... un s à la fin de attribute :) donc attributes.
+
+Détection d'un soucis: il est possible d'update une adresse email et un username en lui attribuant exactement le même username et adresse mail qu'un compte déjà existant dans la Database...
+
+Je dois trouver un moyen d'imposer un message d'erreur en cas de tentative de doublon lors d'un update
