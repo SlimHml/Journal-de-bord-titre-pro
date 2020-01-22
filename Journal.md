@@ -202,3 +202,5 @@ Toujours pas de new pour un stage, un ou deux refus et c'est tout
 Je suis vite repassé sur mon code, et j'ai enfin trouvé d'où venait le problème, la fonction .replace("Bearer", "") ne pouvait pas fonctionner, car dans Postman, il est affiché comme ceci: Bearer "Le token", il y'a un espace entre Bearer et le token...
 
 Donc .replace("Bearer ", "") fonctionne à merveille
+
+J'ai commencé le prochain objectif: pouvoir update un profil d'utilisateur, pour l'instant j'aimerai qu'il puisse éditer son nom d'utilisateur et son email, à voir plus tard si il faut pouvoir le faire aussi pour le mot de passe, je m'y connais très peu en sécurité, je sais pas si c'est une bonne idée, le changement de mdp devrait être encadré par un truc qui fait qu'il n'y ai que le propriétaire de l'account qui puisse valider la procédure, on verra ça plus tard
