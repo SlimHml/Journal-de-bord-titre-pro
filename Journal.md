@@ -199,4 +199,6 @@ J'essaierai de régler ça demain
 ##### Mercredi 22 janvier
 
 Toujours pas de new pour un stage, un ou deux refus et c'est tout
-Je suis vite repassé sur mon code, et j'ai enfin trouvé d'où venait le problème, la fonction .replace("Bearer", "") ne pouvait pas fonctionner, car dans Postman, il est affiché comme ceci: Bearer "Le token"
+Je suis vite repassé sur mon code, et j'ai enfin trouvé d'où venait le problème, la fonction .replace("Bearer", "") ne pouvait pas fonctionner, car dans Postman, il est affiché comme ceci: Bearer "Le token", il y'a un espace entre Bearer et le token...
+
+Donc .replace("Bearer ", "") fonctionne à merveille
