@@ -203,4 +203,10 @@ Je suis vite repassé sur mon code, et j'ai enfin trouvé d'où venait le probl�
 
 Donc .replace("Bearer ", "") fonctionne à merveille
 
-J'ai commencé le prochain objectif: pouvoir update un profil d'utilisateur, pour l'instant j'aimerai qu'il puisse éditer son nom d'utilisateur et son email, à voir plus tard si il faut pouvoir le faire aussi pour le mot de passe, je m'y connais très peu en sécurité, je sais pas si c'est une bonne idée, le changement de mdp devrait être encadré par un truc qui fait qu'il n'y ai que le propriétaire de l'account qui puisse valider la procédure, on verra ça plus tard
+J'ai commencé le prochain objectif: pouvoir update un profil d'utilisateur, pour l'instant j'aimerai qu'il puisse éditer son nom d'utilisateur et son email, à voir plus tard si il faut pouvoir le faire aussi pour le mot de passe, je m'y connais très peu en sécurité, je sais pas si c'est une bonne idée, le changement de mdp devrait être encadré par un truc qui fait qu'il n'y ai que le propriétaire de l'account qui puisse valider la procédure, on verra ça plus tard.
+
+L'update fonctionne, je suis capable de modifier le username et l'email d'un utilisateur, je sais pas si modifier ce dernier est une bonne idée, mais ça marche
+
+En revanche, il m'affiche tout, y compris le mot de passe et isAdmin
+
+J'ai trouvé le soucis :) dans attribute de userController qui est sensé me choper le username et l'email, il manquait.... un s à la fin de attribute :) donc attributes.
